@@ -1,0 +1,19 @@
+{
+  "name": "note-by-url",
+  "version": "0.1.0",
+  "description": "Chrome extension for a note that the key is a URL (hostname)",
+  "author": "Kantouzin",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "gulp": "^4.0.2",
+    "gulp-replace": "^1.0.0",
+    "webpack": "^4.42.1",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {
+    "webextension-polyfill": "^0.6.0"
+  }
+}
